@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mtinmh
-- 👀 I’m interested in AI, Data Science, ...
+- 👀 I’m interested in ML, Data Science, Web design...
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me via email. matinmoharami@yahoo.com
