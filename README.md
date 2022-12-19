@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mtinmh
-- 👀 I’m interested in ML, Data Science, Web design...
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in Data Science, Computer vision and ...
+- 🌱 I’m currently learning Tensorflow and openc
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me via email. matinmoharami@yahoo.com
+- 📫 you can reach me me via email: matinmoharami@yahoo.com
 
 <!---
 mtinmh/mtinmh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
