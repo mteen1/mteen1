@@ -2,7 +2,7 @@
 
 A CS student interested in Python, Linux and ML
 
-- Other interests: [Mojo](https://www.modular.com/mojo), Devops and Haskell
+- Other interests: [Mojo](https://github.com/modularml/mojo), Devops and Haskell
   
 **Social Media**
 
