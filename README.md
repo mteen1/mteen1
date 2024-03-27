@@ -7,6 +7,6 @@ A CS student interested in Python, Linux and ML
 
 - [Twitter](https://twitter.com/mteen_1)
 - [LinkedIn](https://www.linkedin.com/in/matin-moharami/)
-- [Blog](https://mteen.ir)
+- [Website](https://moharami.vip)
 - [Telegram](https://t.me/mteen1)
-- [Email](mailto:matinmoharami@yahoo.com)
+- [Email](mailto:matin@moharami.vip)
