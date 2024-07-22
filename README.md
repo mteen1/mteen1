@@ -1,6 +1,8 @@
 **Hi, I'm Mteen**
 
-A CS student interested in Python, Linux and ML
+A Backend python developer,
+Interested in AI & LLMs
+Interested in thinking & Mind
 
   
 **Social Media**
