@@ -1,8 +1,7 @@
 **Hi, I'm Matin**
 
 A Backend python developer,
-Interested in AI & LLMs
-Interested in thinking & Mind
+Interested in AI & LLMs, thinking & Mind
 
   
 **Social Media**
