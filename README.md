@@ -54,9 +54,6 @@ Explore some of the projects I've been working on:
 
 <hr>
 
-
-<hr>
-
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <p>
