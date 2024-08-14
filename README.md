@@ -26,7 +26,7 @@ I'm a Python Backend Developer with a focus on building efficient web applicatio
 ## Languages:
 
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python Badge"/> 
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=red" alt="Rust Badge"/>
 </div>
 
@@ -48,9 +48,10 @@ Explore some of the projects I've been working on:
 | 🎯 Project | 📖 Description |
 |------------|----------------|
 | **[FastCourse](https://github.com/mteen1/FastCourse)** | An AI Course Builder platform leveraging FastAPI to deliver interactive courses. |
+|**[python_interpreter written in python](https://github.com/mteen1/mini_py_interpreter)** | A mini Python interpreter implemented in Python, designed to execute basic Python commands and expressions interactively.|
 | **[FastReadsbot](https://github.com/mteen1/FastReadsbot)** | A bot designed to provide AI-generated book summaries in telegram, built with Python Telegram Bot. |
-<!--| **[Django Data Tool](https://github.com/mteen1/DjangoDataTool)** | A Django-based tool for automating data extraction and report generation from educational LMS. |
-| **[Async Task Manager](https://github.com/mteen1/AsyncTaskManager)** | A Celery-powered task manager for handling asynchronous jobs with Django. | -->
+
+<!--|| **[Async Task Manager](https://github.com/mteen1/AsyncTaskManager)** | A Celery-powered task manager for handling asynchronous jobs with Django. | -->
 
 <hr>
 
