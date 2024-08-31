@@ -6,9 +6,9 @@
     <a href="mailto:m.moharami@iau.ir">
       <img src="https://img.shields.io/badge/Email-Contact?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://t.me/mteen1">
+<!--     <a href="https://t.me/mteen1">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
+    </a> -->
         <a href="https://mteen.ir">
       <img src="https://img.shields.io/badge/Blog-grey?style=for-the-badge&logo=blogger&logoColor=red" alt="Blog Badge"/>
     </a>
@@ -19,9 +19,9 @@
 
 <br />
 
-<h2> 👨‍💻 About Me:</h2>
+<h2> About Me:</h2>
 <br>
-I'm a Python Backend Developer with a focus on building efficient web applications using Django and FastAPI. With over 2 years of experience, I enjoy working on projects that involve backend optimization, data processing, and integrating new technologies like LLMs. I’m always eager to learn and contribute to innovative solutions that push the boundaries of tech.
+I'm a Python Backend Developer with a focus on building efficient web applications using <img src="https://img.shields.io/badge/Django-%23092E20"> <img src="https://img.shields.io/badge/FastAPI-005571"> With over 2 years of experience, I enjoy working on projects that involve backend optimization, data processing, and integrating new technologies like LLMs. I’m always eager to learn and contribute to innovative solutions that push the boundaries of tech.
 
 ## Languages:
 
@@ -41,13 +41,12 @@ I'm a Python Backend Developer with a focus on building efficient web applicatio
 
 <hr>
 
-## 🚀 Featured Projects:
+## Projects:
 
 Explore some of the projects I've been working on:
 
 | 🎯 Project | 📖 Description |
 |------------|----------------|
-| **[FastCourse](https://github.com/mteen1/FastCourse)** | An AI Course Builder platform leveraging FastAPI to deliver interactive courses. |
 |**[python_interpreter written in python](https://github.com/mteen1/mini_py_interpreter)** | A mini Python interpreter implemented in Python, designed to execute basic Python commands and expressions interactively.|
 | **[FastReadsbot](https://github.com/mteen1/FastReadsbot)** | A bot designed to provide AI-generated book summaries in telegram, built with Python Telegram Bot. |
 
