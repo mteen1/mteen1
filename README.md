@@ -21,7 +21,7 @@
 <br>
 
   - I'm a Python Backend Developer with a focus on building efficient web applications using <img src="https://img.shields.io/badge/Django-%23092E20"> & <img src="https://img.shields.io/badge/FastAPI-005571"> 
-  - With over 2 years of experience, I enjoy working on projects that involve backend optimization, data processing, and integrating new technologies like LLMs. I’m always eager to learn and contribute to innovative solutions that push the boundaries of tech.
+  - I enjoy working on projects that involve backend optimization, data processing, and integrating new technologies like LLMs. I’m always eager to learn and contribute to innovative solutions that push the boundaries of tech.
   -  I code in &emsp; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python Badge"/> &emsp;& &emsp;<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=red" alt="Rust Badge"/>
   
 <br>
