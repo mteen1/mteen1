@@ -20,9 +20,9 @@
 <h2> About Me:</h2>
 <br>
 
-  - I'm a Python Backend Developer with a focus on building efficient web applications using <img src="https://img.shields.io/badge/Django-%23092E20"> & <img src="https://img.shields.io/badge/FastAPI-005571"> 
-  - I enjoy working on projects that involve backend optimization, data processing, and integrating new technologies like LLMs. I’m always eager to learn and contribute to innovative solutions that push the boundaries of tech.
-  -  I code in &emsp; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python Badge"/> &emsp;& &emsp;<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=red" alt="Rust Badge"/>
+  - I'm a Software Engineer with a focus on building efficient web applications using <img src="https://img.shields.io/badge/Django-%23092E20"> & <img src="https://img.shields.io/badge/FastAPI-005571"> 
+  - I enjoy working on projects that involve backend optimization, data processing, and integrating new technologies like LLMs.
+  -  I code in &emsp; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python Badge"/>&emsp;<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=red" alt="Rust Badge"/>&emsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
   
 <br>
 <div align="center">
