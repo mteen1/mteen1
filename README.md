@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=mteen1&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
 
-<h2 align="center">TLDR?</h2>
+<h2 align="center">Core</h2>
 
 <div align="center">
   <p>
