@@ -31,6 +31,6 @@
     &emsp; &emsp; &emsp; &emsp;
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=red" alt="Rust Badge" />
     &emsp; &emsp; &emsp; &emsp;
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+    <img src="https://img.shields.io/badge/django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django Badge"/>
   </div>
 </div>
