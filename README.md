@@ -16,7 +16,7 @@
     Software Engineer focused on backend development with Django and FastAPI. 3+ years in FinTech and education, with work on cost reductions, process improvements, and blockchain integrations (EVM, TRX, TON, Solana).
   </p>
   <p>
-    Skills include observability (ELK, Sentry), Docker/CI/CD, AI agents (LangChain), and exploring Kafka/AWS. BS in Computer Science. Open to remote backend or Web3 roles.
+    Skills include observability (ELK, Sentry), Docker/CI/CD, AI agents (LangChain), and exploring Kafka/AWS. BS in Computer Science. Open to remote backend or AI/Agent roles.
   </p>
 </div>
 <div align="center">
